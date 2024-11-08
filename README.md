@@ -37,7 +37,8 @@ Tham khảo: https://www.youtube.com/watch?v=yi2b9U1kQyc&t=1s
 ## Địa chỉ tạo OAuth API Google để đăng nhập với google:
 https://console.cloud.google.com
 
-Các bước: 
+Setup:
+
 B1: Tạo project
 
 B2: Vào APIs & Services
