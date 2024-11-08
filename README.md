@@ -1,4 +1,4 @@
-# Sign_in_with_Google_PHP
+# Sign in with Google PHP
 In this project-based tutorial, code along with the instructor to integrate Google login in your PHP website. Using the Google OAuth API is an easy way to allow users to sign in using their Google account.
 
 ### Khởi động một tool như XAMPP để khởi động môi trường Apache để gói thư viện hoạt động!
