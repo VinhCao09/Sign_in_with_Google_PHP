@@ -10,7 +10,7 @@ Một số lệnh:
 
 *Lệnh để trỏ tới thư mục chứa code:*
 ```bash
-cd c:\xampp\htdocs\PayOS
+cd c:\xampp\htdocs\signinwithGoogle
 ```
 *Lệnh để kiểm tra version*
 ```bash
