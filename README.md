@@ -34,6 +34,22 @@ Tham khảo: https://www.youtube.com/watch?v=yi2b9U1kQyc&t=1s
 - dangnhap.php: Xử lý đăng nhập với Google, sau khi đăng nhập thành công sẽ lưu name và email vào session.
 - testsession.php: Là file hoạt động độc lập để lấy phiên bao gồm name và email đã lưu từ trước, sau đó hiển thị ra màn hình tên user.
 
+## Địa chỉ tạo OAuth API Google để đăng nhập với google:
+https://console.cloud.google.com
+
+Các bước: 
+B1: Tạo project
+
+B2: Vào APIs & Services
+
+B3: Credentials và Create credentials
+
+B4: OAuth Client ID
+
+B5: Application chọn Web Application, Authorized redirect URIs thì add URL và thêm domain của anh em vào, ví dụ chạy localhost thì nhập ví dụ: http://localhost:3000/dangnhap.php
+
+B6: Copy 2 thông số là ClientId và ClientSecret
+
 ## 🚀 About Me
 Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
 
