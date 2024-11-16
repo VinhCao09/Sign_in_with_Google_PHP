@@ -1,7 +1,7 @@
 # Sign in with Google PHP
 In this project-based tutorial, code along with the instructor to integrate Google login in your PHP website. Using the Google OAuth API is an easy way to allow users to sign in using their Google account.
 
-### Khởi động một tool như XAMPP để khởi động môi trường Apache để gói thư viện hoạt động!
+### Khởi động một tool như XAMPP để khởi động môi trường Apache để gói thư viện hoạt động! 
 
 ## Sử dụng Composer quản lý gói thư viện
 Link hướng dẫn cài đặt: https://nentang.vn/app/edu/khoa-hoc/thiet-ke-lap-trinh-web-backend/khoa-hoc-backend-thiet-ke-web-voi-laravel/lessons/cai-dat-composer-de-quan-ly-cac-goi-thu-vien-trong-php
